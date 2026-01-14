@@ -3,6 +3,7 @@
 
 # Dataset files
 data/*.csv
+data/*.txt
 
 # Jupyter checkpoints
 .ipynb_checkpoints/

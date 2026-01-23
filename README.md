@@ -3,7 +3,7 @@
 This project predicts house prices using machine learning.
 
 ## Dataset
-- Source: Kaggle House Prices Dataset
+- Source: Kaggle House Prices Dataset [https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data]
 - Target: SalePrice
 
 ## Steps
